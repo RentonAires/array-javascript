@@ -1,5 +1,5 @@
 /**Arrays
- * 1 - estruturas indecxadas atraves de indices
+ * 1 - é uma estrutura de dados indexada, por indice
  * 2 - aumenta e diminui dinamicamente
  * 3 - sao objetos
  * 
